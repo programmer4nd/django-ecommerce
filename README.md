@@ -1,4 +1,4 @@
-# Django Ecommerce Web App
+# Django Ecommerce Web App 2
 
 It is a django web app as well as api for ecommerce web app. I is made with django rest frameword and django web framework.
 
